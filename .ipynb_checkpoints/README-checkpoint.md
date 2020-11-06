@@ -2,7 +2,7 @@
 
 # Getting Started
 
-Notebooks starters to help you to understand and use Naas. 
+Explore the Notebooks starters (demo, use cases) to help use Naas. 
 
 Documentation available on https://naas.gitbook.io/naas/
 Support available on Naas chat on the website https://www.naas.ai/ 
